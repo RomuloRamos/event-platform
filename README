@@ -12,4 +12,8 @@ GraphQL
     Query = Buscar dados;
     Mutation = Criar, alterar ou deletar dados;
 
+Figma
+    Logo:
+        Para exportar, foi selecionado o grupo que compunha o logo, feito um copy as SVG, e no site svg2jsx.com foi feita a conversão para componente.
+
 */
