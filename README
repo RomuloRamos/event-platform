@@ -1,0 +1,15 @@
+/* 
+Anotações Gerais para entendimento
+
+GraphCMS
+    CMS = Content Management System 
+    Headless CMS (GraphCMS): Painel de ADMIN (dados  fornecidos através de uma API REST ou GraphQL)
+    React que consome essa API do CMS
+
+GraphQL
+
+    Há dois tipos principais de operações:
+    Query = Buscar dados;
+    Mutation = Criar, alterar ou deletar dados;
+
+*/
